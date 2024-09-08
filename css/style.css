@@ -83,7 +83,7 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 80px;
+    gap: 100px;
 }
 
 .card img{
@@ -104,6 +104,11 @@ body{
     font-size: 36px;
     font-weight: lighter;
     color: #1f2937;
+}
+
+.quote strong{
+    font-size: 25px;
+    text-align: right;
 }
 
 .call-to-action{
